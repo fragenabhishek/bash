@@ -23,7 +23,7 @@ Bash (Bourne Again SHell) is a Unix shell and command language that offers a pow
 
 To use the scripts in this repository, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/yourusername/bash.git`
+1. Clone the repository: `git clone https://github.com/fragenabhishek/bash.git`
 2. Navigate to the repository directory: `cd bash`
 3. Make the script executable (if needed): `chmod +x scriptname.sh`
 4. Run the script: `./scriptname.sh`
@@ -54,5 +54,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 If you have any questions or suggestions, feel free to reach out to me:
 
-- Email: your-email@example.com
-- GitHub: [Your GitHub Profile](https://github.com/yourusername/)
+- Email: fragenabhishek@gmail.com
+- GitHub: [Your GitHub Profile](https://github.com/fragenabhishek/)
